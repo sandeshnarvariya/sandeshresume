@@ -1,0 +1,1 @@
+web: gunicorn houseprice.wsgi:application --log-file -
