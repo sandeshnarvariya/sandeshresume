@@ -1,1 +1,1 @@
-web: gunicorn houseprice.wsgi:application --log-file -
+web: gunicorn mwebsite.wsgi:application --log-file -
